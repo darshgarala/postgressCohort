@@ -1,0 +1,1 @@
+PostgreSQL is an open-source, object-relational database management system (ORDBMS) that supports both relational (SQL) and non-relational (JSON) data types. It's known for its reliability, flexibility, and support of open technical standards.
